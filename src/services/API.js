@@ -1,0 +1,1 @@
+export const API = "https://n161.tech/api/dummyapi"
